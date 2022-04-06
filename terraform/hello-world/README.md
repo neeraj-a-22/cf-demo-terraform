@@ -1,4 +1,4 @@
-# Terraform "Hello, World" example
+# Terraform "Hello, World" example1
 
 This folder contains a "Hello, World" example of a [Terraform](https://www.terraform.io/) file on AWS (Amazon Web Services).
 
